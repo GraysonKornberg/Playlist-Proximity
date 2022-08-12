@@ -1,0 +1,7 @@
+clientSecrets.py
+myenv/
+spotify_million_playlist_dataset/
+playlists_0-499999.pkl
+playlists_500000-999999.pkl
+ideas.txt
+__pycache__/
